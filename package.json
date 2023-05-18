@@ -1,6 +1,6 @@
 {
   "name": "doover-webpack-concat-plugin",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Plugin for concatenating webpack bundles for single file remote hosts and remote components",
   "main": "ConcatPlugin.js",
   "scripts": {
