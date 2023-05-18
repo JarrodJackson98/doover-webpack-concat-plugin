@@ -1,0 +1,27 @@
+{
+  "name": "doover-webpack-concat-plugin",
+  "version": "1.0.1",
+  "description": "Plugin for concatenating webpack bundles for single file remote hosts and remote components",
+  "main": "ConcatPlugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JarrodJackson98/doover-webpack-concat-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "concat",
+    "remote",
+    "host",
+    "remote",
+    "component"
+  ],
+  "author": "Jarrod Jackson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JarrodJackson98/doover-webpack-concat-plugin/issues"
+  },
+  "homepage": "https://github.com/JarrodJackson98/doover-webpack-concat-plugin#readme"
+}
